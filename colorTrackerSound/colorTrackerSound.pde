@@ -72,7 +72,7 @@ void intro(){
   textSize(31);
   text("- In TRACKER you can move the camera around", width/2-280, height/2+100);
   text("- In STABILIZER it will try to keep the dot in the center", width/2-280, height/2+140);
-  text("- In MIXER you can change the volumen of the music", width/2-280, height/2+140);
+  text("- In MIXER you can change the volume of the music", width/2-280, height/2+140);
   textSize(50);
   text("Press ENTER to start", width/2-250, height/2+300);
   
